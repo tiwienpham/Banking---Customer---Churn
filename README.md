@@ -1,4 +1,5 @@
-![image](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/74df5ea9-8355-44b8-9361-af3930ff57a2)
+![Churn](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/ed6e0bb4-2310-4cb7-9f18-0ff457472d06)
+
 
 # Banking-Customer-Churn-Prediction.
 ## Introdution
@@ -47,42 +48,43 @@ The dataset contains various features related to bank customers and their intera
   
 **b. Distribution of Credit Scores.**
 
-  ![Distribution of Credit Scores](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/65d80c0d-f223-4706-8c06-8aee370a03a7)
+![Distribution of Credit Scores](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/77143ee2-d251-42c9-a487-080cfe6fdffd)
   
 Based on distribution of credit score chart, I have observed a distribution within the range of 850-855. This range represents excellent credit scores and is typically associated with individuals who have a proven track record of responsible credit management, low credit utilization, and a history of timely payments.
 
 **c. Distribution of Balance.**
 
-  ![Distribution of Balance](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/41410e21-2db2-4342-8ecf-d0881fb4d7d5)
+![Distribution of Balance](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/4d2f07e8-8bcb-41cf-b2a3-fd5ea324cd01)
+
   
 **d. Distribution of EstimatedSalary.**
 
-  ![Distribution of EstimatedSalary](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/5050caef-aa2d-4157-ae40-07b71f170499)
+![Distribution of EstimatedSalary](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/87344510-2cb4-4a6e-9074-87fabd5f103b)
   
 **e. Tenure vs Exited.**
 
-  ![Tenure vs Exited](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/6baf9c99-46a2-4832-a585-d33e1afe085b)
+![Tenure vs Exited](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/f5a4d378-f8b9-4446-9715-fd9209740d28)
   
 **d. Distribution of Churned Customers.**
 
-  ![Distribution of Churned Customers](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/dad6ed40-20f6-4b98-ac82-524c2a4c2b54)
+![Distribution of Churned Customers](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/a96c231f-4e8d-4460-9939-e6cb9e4e9f18)
   
 **e. Customer Distribution by Gender.**
 
-  ![Customer Distribution by Gender](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/4cf76527-36a0-479f-82f7-031304b81430)
+![Customer Distribution by Gender](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/c5f96d4f-d4dd-45ef-8783-57165c36e392)
 
   
 **f. Customer Active Membership.**
 
-  ![Customer Active Membership](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/42887cf7-5970-4246-a416-de6a98820edd)
+![Customer Active Membership](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/110bfb60-1580-46c0-93ff-2e36fe174c1d)
   
   **g. Customer Having Credit Card.**
   
-  ![Customer Having Credit Card](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/59d7dbb8-b875-4d20-b54a-5e7ce8d99274)
+![Customer Having Credit Card](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/24653543-8d5b-449a-b07f-8e45f1a6a04a)
   
   **h. Customers Exited with Number of products used.**
   
-  ![Customers Exited with Number of products used](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/1d70e528-0316-4d75-93c7-91f3d6780bed)
+![Customers Exited with Number of products used](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/9e2500fc-9a49-4572-bb9d-a786ad8e3e62)
   
 **4. Data Preprocessing.**
 
