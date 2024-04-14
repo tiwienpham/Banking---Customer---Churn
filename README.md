@@ -17,15 +17,12 @@ This repository is organized as follows:
 - Banking Customer Churn Prediction: This directory contains Jupyter notebooks that walk through the various stages of the project, including data exploration, preprocessing, model development, and evaluation.
 - README.md: This file provides an overview of the project, its objectives, and instructions on how to use the repository.
 
-## Dataset.
-Bank Customer Churn Prediction:
-https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
-
 ## Content.
 **1. Import Libraries.**
 ![image](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/e42ca076-f536-43a4-9af5-fb87afdf320a)
 
 **2. About Dataset.**
+
 The Bank Customer Churn Prediction dataset is a collection of data that aims to predict customer churn in the banking industry. The dataset can be accessed from the following Kaggle URL: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction.
 The dataset contains various features related to bank customers and their interactions with the bank. It includes both numerical and categorical variables that provide valuable insights into customer behavior and potential churn patterns. The dataset includes attributes such as:
 - Customer ID: A unique identifier for each customer
@@ -46,6 +43,7 @@ The dataset contains various features related to bank customers and their intera
   ![image](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/4c9303f3-6ba7-4ebd-95ac-b92bb8f808eb)
 **b. Distribution of Credit Scores.**
   ![Distribution of Credit Scores](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/65d80c0d-f223-4706-8c06-8aee370a03a7)
+  
 Based on distribution of credit score chart, I have observed a distribution within the range of 850-855. This range represents excellent credit scores and is typically associated with individuals who have a proven track record of responsible credit management, low credit utilization, and a history of timely payments.
 **c. Distribution of Balance.**
   ![Distribution of Balance](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/41410e21-2db2-4342-8ecf-d0881fb4d7d5)
