@@ -22,6 +22,7 @@ This repository is organized as follows:
 ![image](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/e42ca076-f536-43a4-9af5-fb87afdf320a)
 
 **2. About Dataset.**
+
 The Bank Customer Churn Prediction dataset is a collection of data that aims to predict customer churn in the banking industry. The dataset can be accessed from the following Kaggle URL: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction.
 The dataset contains various features related to bank customers and their interactions with the bank. It includes both numerical and categorical variables that provide valuable insights into customer behavior and potential churn patterns. The dataset includes attributes such as:
 - Customer ID: A unique identifier for each customer
@@ -68,8 +69,8 @@ Based on distribution of credit score chart, I have observed a distribution with
   
 **e. Customer Distribution by Gender.**
 
-  ![Customer Distribution by Gender](https://github.com/tiwienpham/alicepham.github.io/
-  assets/119265751/5d34902d-a99a-4d7f-8c20-b09b2722c20a)
+  ![Customer Distribution by Gender](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/4cf76527-36a0-479f-82f7-031304b81430)
+
   
 **f. Customer Active Membership.**
 
@@ -100,7 +101,7 @@ In the model development phase, we select and train machine learning models to m
 - Support Vector Machine
 - XGBoost
 - K-Nearest Neighbors
-- 
+
 **7. Model Evaluation.**
   
 To evaluate the performance and effectiveness of my trained machine learning models. I use Accuracy, Recall, Precision, F1 metrics.
