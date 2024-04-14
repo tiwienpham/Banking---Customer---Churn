@@ -20,7 +20,7 @@ This repository is organized as follows:
 
 ## Content.
 **1. Import Libraries.**
-![image](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/e42ca076-f536-43a4-9af5-fb87afdf320a)
+![Screenshot 2024-04-14 232400](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/2c29e326-05ff-415a-812f-045461b60101)
 
 **2. About Dataset.**
 
@@ -44,7 +44,7 @@ The dataset contains various features related to bank customers and their intera
 
 **a. Heatmap of Feature Correlation.**
 
-  ![image](https://github.com/tiwienpham/alicepham.github.io/assets/119265751/4c9303f3-6ba7-4ebd-95ac-b92bb8f808eb)
+![Screenshot 2024-04-14 232421](https://github.com/tiwienpham/Banking-Customer-Churn/assets/119265751/a7a24802-363c-430c-bc34-f19f97eb6ed7)
   
 **b. Distribution of Credit Scores.**
 
